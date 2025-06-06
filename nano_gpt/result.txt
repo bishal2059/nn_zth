@@ -1,0 +1,30 @@
+python v2.py 
+step 0: train loss 4.2849, val loss 4.2823
+step 500: train loss 2.0014, val loss 2.0870
+step 1000: train loss 1.5985, val loss 1.7823
+step 1500: train loss 1.4382, val loss 1.6440
+step 2000: train loss 1.3410, val loss 1.5737
+step 2500: train loss 1.2783, val loss 1.5345
+step 3000: train loss 1.2261, val loss 1.5048
+step 3500: train loss 1.1820, val loss 1.4828
+step 4000: train loss 1.1448, val loss 1.4755
+step 4500: train loss 1.1099, val loss 1.4748
+
+had deeds upon you!
+
+KING EXI:
+Good priCHARD IV:
+No, by Lord, good sight: I'll promise thee all:
+The fled like shame for my traw thou all afford.
+
+QUEEN MARGARET:
+Dost not thou dead most wrong?
+
+LADY GREGHAND:
+I may, I do fear me, rescure, or my wishes!
+It is, sir a lift; and in what I weighdom so
+you as his old will, whom nothing more than the rotte
+castolers not on himself, his throught, his rids:
+His ounce rooting string pit priving hate--
+But if to haply limps no other's shame,
+That I will d
